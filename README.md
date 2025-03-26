@@ -1,6 +1,6 @@
 Some code from my Tandy TRS-80 Model 100/102 adventures.
 
-I'll try to keep the code I upload in the .DO format so it's human readable online.
+These files should be renamed and uploaded with the .DO extension, the file name .BAS is to make files readable with syntax highlighting github.
 
-- **TFTCH.DO**: Simple system information program, built on the Model 100. Needs a model detection routine.
+- **TFTCH.bas**: Simple system information program, built on the Model 100. Needs a model detection routine.
 
